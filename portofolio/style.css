@@ -1,0 +1,111 @@
+.bodycontent{
+	width:  100%;
+	height:  600px;
+	padding:  40px;
+}
+
+.contenttext{
+	width:  100%;
+	height:  300px;
+	padding:  50px;
+}
+
+.contenttext h1, h2{
+	font-size:  60px;
+}
+
+.contenttext h6{
+	font-size:  30px;
+}
+
+.abouttext{
+	width:  100%;
+	height:  150px;
+	border-top:  1px solid black;
+}
+
+.abouttext h6{
+	padding-left:  50px;
+	padding-top:  10px;
+	font-size: 20px;
+}
+
+.abouttext p{
+	padding-left:  50px;
+	font-size:  20px;
+}
+
+.skillcontent{
+	width:  100%;
+	height:  700px;
+    background-color: #35414F;
+}
+
+.skillcontent h1{
+	text-align: center;
+	padding-top:  10px;
+}
+
+.pythonlogo{
+	margin-top:  100px;
+	width:  150px;
+	height:  150px;
+}
+
+
+.phplogo{
+	margin-top:  100px;
+	width:  250px;
+	height:  150px;
+}
+
+
+.htmlcsslogo{
+	margin-top:  100px;
+	width:  250px;
+	height:  150px;
+}
+
+.expreincecontent{
+	width:  100%;
+	height:  600px;
+}
+
+.contentsgeede{
+	margin-top:  40px;
+	padding-top:  20px;
+	width: 100%;
+	height:  500px;
+	background-color: white;
+	border:  2px solid black;
+	border-radius:  25px; 
+}
+
+.contactcontent{
+	width:  100%;
+	height:  400px;
+	text-align: center;
+    background-color: #171717;
+}
+
+.waicon{
+	width:  100%;
+	height:  40px;
+	padding:  5px;
+	background-image: linear-gradient(to right, #B416DD, #D5286A);
+	text-align:  center;
+	color:  white;
+	font-weight: bold;
+	border-radius:  25px;
+}
+
+.gmailicon{
+	width:  100%;
+	height:  40px;
+	padding:  5px;
+	background-image: linear-gradient(to right, #B416DD, #D5286A);
+	text-align:  center;
+	color:  white;
+	font-weight: bold;
+	border-radius:  25px;
+}
